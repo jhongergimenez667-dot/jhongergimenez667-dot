@@ -45,11 +45,6 @@ gitGraph
   commit id: "JavaScript"
 ```
 
-## 📈 Actividad
-
-![Actividad de commits](https://img.shields.io/github/commit-activity/m/jhongergimenez667-dot/jhongergimenez667-dot?style=flat-square&label=commits%20este%20mes&color=4FC3F7)
-![Último commit](https://img.shields.io/github/last-commit/jhongergimenez667-dot/jhongergimenez667-dot?style=flat-square&label=%C3%BAltimo%20commit&color=2c5364)
-
 ## 📫 Vías de contacto
 
 <p align="left">
